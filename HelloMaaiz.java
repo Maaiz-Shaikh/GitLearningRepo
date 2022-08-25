@@ -11,6 +11,8 @@ public class HelloMaaiz {
 		
 		int variable = 5;
 		System.out.println("variable = " + variable);
+
+		System.out.println("Contributed Successfully");
 	     
 	     
 	     
